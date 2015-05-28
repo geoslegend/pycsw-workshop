@@ -41,7 +41,7 @@ Software Architecture
 OSGeo Live DVD
 --------------
 
-see :ref:`requirements`
+see requirements
 
 The 4 minute install (http://pycsw.org/#deploy-in-4-minutes)
 ************************************************************
